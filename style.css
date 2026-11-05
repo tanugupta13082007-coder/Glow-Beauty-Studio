@@ -194,3 +194,13 @@ footer {
     transform: translateY(-3px);
 }
 
+.hero-image {
+    width: 85%;
+    max-width: 750px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 20px;
+    margin: 25px auto;
+    display: block;
+}
+
